@@ -1,0 +1,8 @@
+[package]
+name = "motivations"
+version = "0.1.0"
+authors = ["caro"]
+
+[dependencies]
+# I depend on the crate "pencil" and "*" means I don't care what version
+pencil = "*"
