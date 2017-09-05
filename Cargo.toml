@@ -6,3 +6,5 @@ authors = ["caro"]
 [dependencies]
 # I depend on the crate "pencil" and "*" means I don't care what version
 pencil = "*"
+pick-one = "1.0.1"
+motivations = "1.1.2"
